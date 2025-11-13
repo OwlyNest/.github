@@ -18,7 +18,7 @@ OwlyNest is a ***nest***. A place for ideas to grow and take flight. A community
 
 ---
 
-## Philosophy
+### Philosophy
 - Openness: Code is meant to be read, studied, shared and understood.
 - Integrity: Credit is important. Every file, every author, every contribution has a name.
 - Curiosity: The best discoveries come from experiments that shouldn’t work, but do.
@@ -26,7 +26,7 @@ OwlyNest is a ***nest***. A place for ideas to grow and take flight. A community
 
 ---
 
-## What we make
+### What we make
 OwlyNest has a growing ecosystem of projects; each one built to teach, inspire and challenge:
 - [AmitX](https://github.com/OwlyNest/AmitX); A home made operating system helped by the comfort of GRUB
 - [AmitGFX](https://github.com/OwlyNest/AmitGFX); Sooner or later the same as AmitX, but with a hand crafted bootloader
@@ -36,7 +36,7 @@ OwlyNest has a growing ecosystem of projects; each one built to teach, inspire a
 
 ---
 
-## For builders, learners and the Brave
+### For builders, learners and the Brave
 OwlyNest is there for those who look at the impossible and go: *"yeah, I can probably do that."*
 It's for those who want to understand how things work, why things work, and how you can make it yourself.
 
